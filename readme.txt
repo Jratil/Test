@@ -3,3 +3,4 @@ create new branch dev
 checkout master
 
 new change
+dev build
